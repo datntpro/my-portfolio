@@ -1,17 +1,17 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Ngo Tien Dat",
+  location: "Hanoi, Vietnam",
+  email: "hi@datnt.work",
+  github: "https://github.com/datntpro",
+  linkedin: "https://www.linkedin.com/in/datngotien/",
 };
 
 export const workExperience = [
   {
-    company: "Chatbyte GmbH",
-    location: "Remote",
-    position: "Software Engineer",
-    period: "Mar 2024 - Present",
+    company: "National Citizen Bank",
+    location: "Hanoi, Vietnam",
+    position: "Security Engineer",
+    period: "2022 - Present",
     achievements: [
       "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
       "Built a comprehensive admin panel for managing content, user data, and analytics.",
@@ -23,20 +23,20 @@ export const workExperience = [
     ],
   },
   {
-    company: "DevCrew",
-    location: "Coimbatore, India",
-    position: "Software Engineer",
-    period: "Mar 2023 - Mar 2024",
+    company: "Viettel Security",
+    location: "Hanoi, Vietnam",
+    position: "Security Engineer",
+    period: "2021 - 2022",
     achievements: [
       "Developed responsive frontend components using React.js, enhancing user experience and app performance.",
       "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
     ],
   },
   {
-    company: "Phoenitags",
-    location: "Coimbatore, India",
-    position: "Software Engineering Intern",
-    period: "Jan 2023 - Mar 2023",
+    company: "Worldstar International J.S.C",
+    location: "Hanoi, Vietnam",
+    position: "System Security Engineer / Presales",
+    period: "2019 - 2021",
     achievements: [
       "Built interactive UIs with React.js, focusing on reusable components and performance optimization.",
       "Implemented JavaScript-based features like user authentication and real-time updates.",
@@ -60,38 +60,18 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "C++",
-    "Java",
-    "Solidity",
+    "PAM",
+    "(WAF",
+    "XDR",
+    "Vulnerability Management",
+    "IaC",
+    "Linux",
   ],
-  frontendDevelopment: [
-    "Nextjs",
-    "Reactjs",
-    "React Native",
-    "Shadcn UI",
-    "Tailwind CSS",
-    "HTML",
-    "CSS",
-  ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
   cloudAndDevOps: ["AWS"],
-  toolsAndServices: [
-    "Clerk (Auth)",
-    "Sanity (CMS)",
-    "Tinybird (analytics)",
-    "Zod",
-    "Sentry",
-    "Mixpanel",
-    "Trigger.dev",
-  ],
 };
 
 export const projects = [
-  {
+/*  {
     title: "Net Zero Carbon Emissions",
     github: "https://github.com/rishikesh2003/Prodigi",
     description: [
@@ -113,10 +93,11 @@ export const projects = [
       "Built with React, Supabase, Node.js, Flask, and Solidity, showcasing seamless integration of health tech and blockchain.",
     ],
   },
+*/
 ];
 
 export const awards = [
-  {
+/*  {
     name: "IEEE YESIST12 Hackathon",
     issuer: "IEEE",
     date: "Sep 2022",
@@ -165,4 +146,5 @@ export const awards = [
     type: "National",
     position: "Most Impactful Hack",
   },
+*/
 ];
