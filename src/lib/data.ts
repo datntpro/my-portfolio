@@ -45,7 +45,7 @@ export const workExperience = [
 ];
 
 export const education = [
-  {
+/*  {
     institution: "Sri Krishna College of Engineering and Technology",
     location: "Coimbatore, India",
     degree: "B Tech Information Technology",
@@ -57,6 +57,7 @@ export const education = [
       "Represented my college in multiple national and international hackathons and won.",
     ],
   },
+*/
 ];
 export const skills = {
   programmingLanguages: [
